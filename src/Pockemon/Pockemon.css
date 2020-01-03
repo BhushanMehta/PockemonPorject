@@ -1,0 +1,17 @@
+.pock-cardTitle_bg {
+    background: #115740;
+    padding: 5px;
+    color: #fff;
+    margin: 0px !important;
+}
+.pock-card_bg {
+    background: #fff;
+    box-shadow: #ccc 2px 2px 2px;
+    box-sizing: border-box;
+}
+.pock-button {
+    background: #2d8031;
+    color: #fff;
+    border: none;
+    margin-top:10px;
+}
